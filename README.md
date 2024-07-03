@@ -1,8 +1,8 @@
-# Creator Investment Platform
+# Certificate Validation Platform
 
 ## Overview
 
-In today's digital age, the landscape of creativity and content creation has expanded exponentially, yet many creators face challenges in monetizing their work and securing sustainable support. Recognizing this gap, our project aims to democratize the investment and backing of creators through an innovative platform. At its core, our initiative empowers both creators and supporters by creating a decentralized marketplace where the potential of creators can be directly invested in and nurtured.
+This project aims to provide a secure and efficient platform for issuing and validating certificates using web3 technology. By leveraging blockchain, we ensure that certificates are tamper-proof and easily verifiable by users and organizations
 
 ## Technologies Used
 
@@ -22,6 +22,3 @@ The platform leverages a variety of technologies to ensure robustness, security,
   
 - **Web3.js**: Integrates blockchain functionalities into the web application, enabling interactions with decentralized applications and ensuring secure and immutable transactions.
 
-## Project Details
-
-Our platform not only provides a means for creators to receive financial backing but also fosters a community-driven ecosystem where supporters can directly participate in the success of their favorite creators. By democratizing investment opportunities and leveraging blockchain for transparency and security, we aim to cultivate an environment where creativity flourishes and innovation thrives, ultimately reshaping the landscape of digital content creation.
